@@ -1,6 +1,6 @@
 Basically, this is just a loading script for ROBLOX UI's.
 What it does in steps:
-,Gets the TextLabel
+Gets the TextLabel
 ,Gets the Frame
 ,Gets the FrameToOpen
 ,Sets the TextLabel.Text
